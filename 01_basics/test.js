@@ -9,7 +9,7 @@ console.log(myname);
 let user = {
     email: "dan@gamil.com",
     age: "22",
-    phone: "7819920874"
+    phone: "7800004"
 }
 console.table(user);
 
